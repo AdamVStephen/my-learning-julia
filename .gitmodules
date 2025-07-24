@@ -1,0 +1,3 @@
+[submodule "ThinkJulia"]
+	path = ThinkJulia
+	url = https://github.com/BenLauwens/ThinkJulia.jl
