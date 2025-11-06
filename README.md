@@ -21,3 +21,8 @@ See MovingIn/*
 ### STEP Costing Modules
 
 ### MARTe2 Bindings
+
+### Think Julia Book 
+
+https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
+
